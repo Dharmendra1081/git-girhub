@@ -1,2 +1,3 @@
 Hello Git and GitHub
-my name is Dharmendra jha 
+my name is Dharmendra Jha
+make changes 1 
