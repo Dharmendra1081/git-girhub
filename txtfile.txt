@@ -1,3 +1,5 @@
 Hello Git and GitHub
 my name is Dharmendra Jha
-make changes 1 
+make changes 1
+make changes 2
+make changes 3 
